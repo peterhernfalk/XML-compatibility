@@ -1,4 +1,4 @@
-# Komaatibilitetskontroll av schemafiler i tjänstedomän
+# Kompatibilitetskontroll av schemafiler i tjänstedomän
 
 ## Beskrivning:
 ### Implementationen i korthet
